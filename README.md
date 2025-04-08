@@ -8,3 +8,5 @@ This is only version 1 as I plan to make v2 with a GUI (python)
 3. A client management application, with a GUI, to manage clients and their invoices. All data is saved to a database (Java)
 
 4. Minigames. this is v1 with only rock paper scissors against the computer (python)
+
+5. A Luhn algorithm program to check the validity of a card number (Python)
