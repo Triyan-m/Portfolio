@@ -12,3 +12,5 @@ This is only version 1 as I plan to make v2 with a GUI (python)
 5. A Luhn algorithm program to check the validity of a card number (Python)
 
 6. a basic expense tracker using a command line interface. Does not save the expenses (python)
+
+7. A camel and pascal case to snake case converter using list comprehension (python)
