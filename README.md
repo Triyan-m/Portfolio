@@ -14,3 +14,5 @@ This is only version 1 as I plan to make v2 with a GUI (python)
 6. a basic expense tracker using a command line interface. Does not save the expenses (python)
 
 7. A camel and pascal case to snake case converter using list comprehension (python)
+
+8. A way to find the square root of any number using the bisection method (python)
